@@ -11,7 +11,6 @@ import Movies from '../components/Movies';
 
 
 const App = (props) => {
-
   return (
     <Router>
       <div className="app">
